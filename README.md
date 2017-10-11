@@ -19,3 +19,9 @@ http://ichimoku-expert.blogspot.com
 http://finance-conseil.blogspot.com
 http://investdata.000webhostapp.com/alerts
 
+The trades are opened only for financial instruments with spreads that are lower than 0.00010
+You can adapt this limitation in the code.
+
+All financial instruments in the Market Watch window will be analyzed by the algorithm.
+
+
