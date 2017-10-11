@@ -11,3 +11,11 @@ I don't know if this is going to make you earn money.
 This is a basic code that you will have to improve and adapt with eventually other indicators, or with more criterias from the ichimoku kinko hyo indicator.
 
 Use on demo account.
+
+Only the M15 version (IchimokuExpertM15.mq4) contains the most recent code.
+While trying to compile the first time, there will be an error because I commented the line that sends orders. For compiling properly you will have to uncomment this line (but it will trade) or remove the line and the condition that is just after it in the code.
+
+http://ichimoku-expert.blogspot.com
+http://finance-conseil.blogspot.com
+http://investdata.000webhostapp.com/alerts
+
