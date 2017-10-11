@@ -24,4 +24,8 @@ You can adapt this limitation in the code.
 
 All financial instruments in the Market Watch window will be analyzed by the algorithm.
 
+Only when a 15 minute new candle will appear, it will detect ichimoku criterias for all the financial instruments in the Market Watch window.
+
+It will test if the previous 15 minute candlestick has its open price under the kumo top and has its close price over the kumo top.
+If yes, then it will try to open a buy (long) position for the financial instrument being processed.
 
