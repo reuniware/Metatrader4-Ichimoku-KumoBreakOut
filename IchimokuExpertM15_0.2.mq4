@@ -4,7 +4,7 @@
 //|                                             https://www.mql5.com |
 //+------------------------------------------------------------------+
 #property copyright "Copyright 2017, investdata.000webhostapp.com"
-#property link      "https://www.mql5.com"
+#property link      "https://ichimoku-expert.blogspot.com"
 #property version   "1.00"
 #property strict
 //+------------------------------------------------------------------+
