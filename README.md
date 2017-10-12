@@ -1,6 +1,10 @@
 # Metatrader4-Ichimoku-KumoBreakOut
 Simple MQL4 code that opens a trade when the price gets over the top of the kumo
 
+The source may highly change, so I strongly advise that you review it entirely. It may be used as a good starting point for understanding the basics of MQL4 programming in Metatrader 4, as I myself created this code while trying to port MQL5 C code to MQL4 C Code.
+
+Beware that this is financial stuff and that may be of high risk if used on real account. This is purely experimental.
+
 I write Metatrader 5 algorithm since more than 3 years and I now write Metatrader 4 algorithms.
 
 This is why I am now trying to port my MQL5 code to MQL4.
