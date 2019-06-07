@@ -19,9 +19,8 @@ Use on demo account.
 Only the M15 version (IchimokuExpertM15.mq4) contains the most recent code.
 While trying to compile the first time, there will be an error because I commented the line that sends orders. For compiling properly you will have to uncomment this line (but it will trade) or remove the line and the condition that is just after it in the code.
 
-http://ichimoku-expert.blogspot.com
-http://finance-conseil.blogspot.com
-http://investdata.000webhostapp.com/alerts
+https://ichimoku-expert.blogspot.com
+https://ntic974.blogspot.com
 
 The trades are opened only for financial instruments with spreads that are lower than 0.00010
 You can adapt this limitation in the code.
