@@ -32,3 +32,9 @@ Only when a 15 minute new candle will appear, it will detect ichimoku criterias 
 It will test if the previous 15 minute candlestick has its open price under the kumo top and has its close price over the kumo top.
 If yes, then it will try to open a buy (long) position for the financial instrument being processed.
 
+If you need support or for any inquiries contact me at the following email addresses (with object "Metatrader inquiry") :
+
+reuniware@gmail.com
+
+investdatasystems@yahoo.com
+
