@@ -1,10 +1,10 @@
 ﻿//+------------------------------------------------------------------+
 //|                                            IchimokuExpertM15.mq4 |
 //|                     Copyright 2017, https://ntic974.blogspot.com |
-//|                                             https://www.mql5.com |
+//|                                     https://ntic974.blogspot.com |
 //+------------------------------------------------------------------+
-#property copyright "Copyright 2017, investdata.000webhostapp.com"
-#property link      "https://www.mql5.com"
+#property copyright "Copyright 2017, https://ntic974.blogspot.com"
+#property link      "https://ntic974.blogspot.com"
 #property version   "1.00"
 #property strict
 //+------------------------------------------------------------------+
